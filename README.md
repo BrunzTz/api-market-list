@@ -31,4 +31,4 @@ npm start
 ```
 
 # Documentação
-A documentação foi feita com o POSTMAN (clique aqui)[https://documenter.getpostman.com/view/16311667/UUxxhoVL]
+A documentação foi feita com o POSTMAN [clique aqui](https://documenter.getpostman.com/view/16311667/UUxxhoVL)
